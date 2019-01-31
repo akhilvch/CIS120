@@ -1,0 +1,9 @@
+LevelDone: false
+Score: 90
+Health: 60
+Level: 1
+PlayerX: 173.0
+PlayerY: 329.0
+PlayerVx: -3.0
+PlayerVy: 2.0
+asteroid 0: 16.235780344342075: 366.8243237895539: 3.564026096753471: -1.8159619989581874: 40
